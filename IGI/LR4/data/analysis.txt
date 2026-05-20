@@ -1,0 +1,22 @@
+
+=== Regex Text Analysis ===
+Total sentences: 6
+Declarative: 6
+Interrogative: 0
+Imperative: 0
+Avg sentence length (chars in words): 20.67
+Avg word length: 4.13
+Smileys: 3
+
+=== Date validation ===
+'15/04/2025' valid? True
+'31/02/2025' valid? True
+
+=== Variant 19 specific ===
+Uppercase English letters: 7
+First word with 'z': ('Z', 17)
+Text after removing words starting with 'a':
+Hello, world! How  you? The date 15/04/2025 is valid. Smile :) :---]  ;-)  a Z-word: !  sentence with digits 123  punctuation, ok?  remove this.
+
+=== Sentences with spaces, digits, punctuation ===
+1. Another sentence with digits 123 and punctuation, ok
